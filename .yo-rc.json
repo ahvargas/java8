@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Java 8",
+    "packageVersion": "0.0.0",
+    "revealTheme": "sky",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "ahvargas",
+    "githubRepository": "java8"
+  }
+}
