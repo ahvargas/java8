@@ -1,10 +1,10 @@
 
-# Java 8
+# Programacion funcional
+## con Java 8 <!-- .element: class="fragment" --> 
 
-From the terminal, pop in:
+ ```presentado por Abraham Vargas``` <!-- .element: class="fragment" --> 
 
-  ```yo reveal:slide "Slide Title"```
+ ![](resources/twd_logo.png) <!-- .element: class="fragment" --> 
 
-Available options:
 
- ```--markdown --attributes --notes```
+
