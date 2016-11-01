@@ -15,6 +15,11 @@
 		"lambda/functional_interface.md",
 		"lambda/functional_interface_1.md",
 		"lambda/functional_interface_2.md",
-		"lambda/annotation.md"
-	]
+        "lambda/sugar.md",
+        "lambda/clousures.md",
+        "lambda/clousures_1.md"
+	],
+    "followup.md",
+    "questions.md",
+    "thanks.md"
 ]

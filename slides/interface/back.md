@@ -1,6 +1,7 @@
 ###Métodos default
 
-Se puede volver a hacer abstracto un metodo volviendo a definirlo en otra interfaz. <!-- .element: class="fragment" --> 
+Se puede volver a hacer abstracto un metodo volviendo a definirlo en
+otra interfaz. <!-- .element: class="fragment" -->
 
 ```java
 interface Animal {
@@ -17,14 +18,15 @@ interface Fish {
 }
 
 ```
-<!-- .element: class="fragment" --> 
+<!-- .element: class="fragment" -->
 
 ```java
 final class Goldfish implements Fish {} // Esto compila?
 ```
-<!-- .element: class="fragment" --> 
-No compila (Goldfish is not abstract and does not override abstract method walk() in Fish). 
-<!-- .element: class="fragment" --> 
+<!-- .element: class="fragment" -->
+No compila (Goldfish is not abstract and does not override abstract
+method walk() in Fish).
+<!-- .element: class="fragment" -->
 
 ```java
 class Hake implements Fish {
@@ -34,4 +36,4 @@ class Hake implements Fish {
     }
 }
 ```
-<!-- .element: class="fragment" --> 
+<!-- .element: class="fragment" -->
