@@ -1,6 +1,6 @@
 ####<R> Stream<R> map(Function<? super T, ? extends R> mapper);
 
-Como se ve el tipo de entrada no tiene que ser el mismo que entra. Lo
+Como se ve el tipo de salida no tiene que ser el mismo que entra. Lo
 que permite transformar de un tipo a otro.
 <!-- .element: class="fragment" -->
 

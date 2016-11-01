@@ -1,6 +1,6 @@
 ####Stream<T> filter(Predicate<? super T> predicate)
 
-filter es una operacion intermedia. Obtine un stream que contiene
+filter es una operacion intermedia. Obtiene un stream que contiene
 los elementos del stream que cumplen el predicado.
 <!-- .element: class="fragment" -->
 

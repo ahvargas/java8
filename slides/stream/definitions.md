@@ -1,9 +1,11 @@
 ##Streams
 
-- Secuencia de elementos (Stream) : Un stream es una interfaz para
-acceder de manera secuencial a un conjunto de valores. Los stream no
-necesariamiante tienen que almacenar los elementos , se generan bajo
-demanda.
+Secuencia de elementos (Stream) : Un stream es una interfaz para
+acceder de manera secuencial a un conjunto de valores.
+<!-- .element: class="fragment" -->
+
+Los stream no necesariamiante tienen que almacenar los elementos
+, se generan bajo demanda.
 <!-- .element: class="fragment" -->
 
 ```java

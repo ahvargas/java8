@@ -12,6 +12,9 @@ se puede trabajar mas con el.
 (java.lang.IllegalStateException: stream has already been operated
  upon or closed)
 <!-- .element: class="fragment" -->
-- Corto circuito.
+- Corto circuito. Termina las operaciones cuando la condicion de algun
+predicado es alcanzada. (Mas adelante veremos un ejemplo)
 <!-- .element: class="fragment" -->
 
+- [Mas info](http://www.logicbig.com/tutorials/core-java-tutorial/java-util-stream/short-circuiting/)
+<!-- .element: class="fragment" -->

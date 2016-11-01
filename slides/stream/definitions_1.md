@@ -1,6 +1,6 @@
 ##Streams
 
-- Fuente: Los streams consumen datos de una fuente. Por ejemplo un lista,
+Fuente: Los streams consumen datos de una fuente. Por ejemplo un lista,
 un array , un socket, etc..
 
 <!-- .element: class="fragment" -->
